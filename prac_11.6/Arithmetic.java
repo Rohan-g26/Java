@@ -1,6 +1,4 @@
-package ArithPack;  
-
-
+package ArithmeticPack;  
 import java.util.Scanner; 
 class Arithmetic
 
